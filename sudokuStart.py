@@ -72,7 +72,7 @@ def printBoard(b):
     print(b[45:54])
     print(b[54:63])
     print(b[63:72])
-    print(b[-9:0])
+    print(b[-9:])
 
 printBoard(example)
 
